@@ -1,0 +1,23 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "EXERCISES",
+  "main": "Ex2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHOAIB-MAQSOOD/ASSIGNMENT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHOAIB-MAQSOOD/ASSIGNMENT/issues"
+  },
+  "homepage": "https://github.com/SHOAIB-MAQSOOD/ASSIGNMENT#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.6"
+  }
+}
